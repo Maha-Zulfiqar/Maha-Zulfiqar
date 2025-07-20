@@ -2,8 +2,9 @@
 <h3 align="center">Welcome to my little digital dreamland! 🍓🧁</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LPgRZaf7pkwEwZ9oOW/giphy.gif" width="300" height="300" style="margin-top: -40px;" alt="cute girl coding" />
+  <img src="https://i.pinimg.com/originals/6f/41/67/6f416741d82d2e9b5cc4b10fcf2bfc4c.jpg" width="300" height="300" style="margin-top: -40px;" alt="Cute girl coding" />
 </p>
+
 
 
 <div>
