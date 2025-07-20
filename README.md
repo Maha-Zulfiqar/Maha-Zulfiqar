@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my little digital dreamland! 🍓🧁</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/41/67/6f416741d82d2e9b5cc4b10fcf2bfc4c.jpg" width="300" height="300" style="margin-top: -40px;" alt="Cute girl coding" />
+  <img src="https://github.com/user-attachments/assets/c7c33316-887d-4abd-996e-14e2701a26cf" width="300" height="300" style="margin-top: -40px;"/>
 </p>
 
 
