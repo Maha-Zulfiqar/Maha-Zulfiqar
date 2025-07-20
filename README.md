@@ -1,5 +1,5 @@
 <h1 align="center">Hii, I'm Maha! 🧸🌸</h1>
-<h3 align="center">Welcome to my little corner of the internet 👩🏻‍💻✨</h3>
+<h3 align="center">Welcome to my little digital dreamland! 🍓🧁</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7c33316-887d-4abd-996e-14e2701a26cf" width="300" height="300" style="margin-top: -40px;"/>
